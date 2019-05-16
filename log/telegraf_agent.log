@@ -1,0 +1,7 @@
+2019-05-16T07:01:32Z I! Loaded inputs: disk mem system cpu diskio kernel processes swap http_listener
+2019-05-16T07:01:32Z I! Loaded aggregators: 
+2019-05-16T07:01:32Z I! Loaded processors: 
+2019-05-16T07:01:32Z I! Loaded outputs: influxdb
+2019-05-16T07:01:32Z I! Tags enabled: host=localhost
+2019-05-16T07:01:32Z I! [agent] Config: Interval:10s, Quiet:false, Hostname:"localhost", Flush Interval:10s
+2019-05-16T07:01:32Z I! Started HTTP listener service on :8186
